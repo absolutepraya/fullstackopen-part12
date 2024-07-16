@@ -8,3 +8,4 @@ Exercises:
 - 12.3: ubuntu 101
 - 12.4: ubuntu 102
 - 12.5: containerizing a node application
+- 12.6: docker compose
