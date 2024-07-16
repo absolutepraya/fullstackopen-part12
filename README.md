@@ -7,3 +7,4 @@ Exercises:
 - 12.2: running your second container
 - 12.3: ubuntu 101
 - 12.4: ubuntu 102
+- 12.5: containerizing a node application
